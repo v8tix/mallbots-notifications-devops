@@ -1,0 +1,4 @@
+MAINTAINER="v8tix"
+IMAGE="notifications"
+TAG="<1>"
+IMAGE_TAG="${MAINTAINER}/${IMAGE}:${TAG}"
